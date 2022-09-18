@@ -1,45 +1,40 @@
-[
-  {
-    id: "1",
-    card_img: "https://picsum.photos/200/300.jpg?random=1",
-    card_title: "This is card Demo Title One",
-    card_descp:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
-  },
-  {
-    id: "2",
-    card_img: "https://picsum.photos/200/300.jpg?random=2",
-    card_title: "This is card Demo Title Two",
-    card_descp:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
-  },
-  {
-    id: "3",
-    card_img: "https://picsum.photos/200/300.jpg?random=3",
-    card_title: "This is card Demo Title Three",
-    card_descp:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
-  },
-  {
-    id: "4",
-    card_img: "https://picsum.photos/200/300.jpg?random=4",
-    card_title: "This is card Demo Title Four",
-    card_descp:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
-  },
-  {
-    id: "5",
-    card_img: "https://picsum.photos/200/300.jpg?random=5",
-    card_title: "This is card Demo Title Five",
-    card_descp:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
-  },
-  {
-    id: "6",
-    card_img: "https://picsum.photos/200/300.jpg?random=6",
-    card_title: "This is card Demo Title Six",
-    card_descp:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
-  }
-]
+{
 
+	"my_data": [{
+			"id": "1",
+			"card_img": "https://picsum.photos/200/300.jpg?random=1",
+			"card_title": "This is card Demo Title One",
+			"card_descp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
+		},
+		{
+			"id": "2",
+			"card_img": "https://picsum.photos/200/300.jpg?random=2",
+			"card_title": "This is card Demo Title Two",
+			"card_descp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
+		},
+		{
+			"id": "3",
+			"card_img": "https://picsum.photos/200/300.jpg?random=3",
+			"card_title": "This is card Demo Title Three",
+			"card_descp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
+		},
+		{
+			"id": "4",
+			"card_img": "https://picsum.photos/200/300.jpg?random=4",
+			"card_title": "This is card Demo Title Four",
+			"card_descp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
+		},
+		{
+			"id": "5",
+			"card_img": "https://picsum.photos/200/300.jpg?random=5",
+			"card_title": "This is card Demo Title Five",
+			"card_descp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
+		},
+		{
+			"id": "6",
+			"card_img": "https://picsum.photos/200/300.jpg?random=6",
+			"card_title": "This is card Demo Title Six",
+			"card_descp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  per inceptos himenaeos."
+		}
+	]
+}
